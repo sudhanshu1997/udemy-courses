@@ -1,0 +1,2 @@
+slicing in python 
+aptitude -digit problems
